@@ -1,4 +1,4 @@
-# Project Name
+# User Crud
 
 ## Description
 This project is a Spring-based RESTful API application for managing user data. It's built using Spring Boot, Spring Data JPA, and utilizes an H2 in-memory database for data persistence. The project includes entities, repositories, services, controllers, exception handling mechanisms, and configurations.
